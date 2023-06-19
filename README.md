@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 - 🌱掘金：[掘金](https://juejin.cn/user/391873608037390)
 - 🌱CSDN：[CSDN](https://blog.csdn.net/qq_33806001?spm=1000.2115.3001.5343)
 - 🤔最近在学：分布式开发、JVM、Netty
+- ---
+- 🔭30岁之前的规划：
+  -  全栈（前后端，桌面端，小程序，AI）开发工程师；
+  -  掘金小册签约作者；
+  -  入职字节/阿里巴巴/网易云；
+  -  拥有自己的一款产品。
 
 请多多指教！😄
 
