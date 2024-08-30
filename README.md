@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 
 # 👋Hi，我叫Chengyunlai！
 
-- 🙋‍♂️一名在校学生
-- 💻热爱 前端/后端 开发
-- 📫个人博客：[博客](https://www.chengyunlai.top/)
-- 🌱掘金：[掘金](https://juejin.cn/user/391873608037390)
-- 🌱CSDN：[CSDN](https://blog.csdn.net/qq_33806001?spm=1000.2115.3001.5343)
-- 🤔最近在学：分布式开发、JVM、Netty
+- 🙋‍♂️ 一名互联网从业者
+- 💻 热爱 前端 / 后端 开发
+- 🧑‍🎓 学历：研究生
+- 🌱 [掘金](https://juejin.cn/user/391873608037390)
+- 🤔 想做的事情：赚钱
+- 联系方式：19550211498@163.com
 - ---
 - 🔭30岁之前的规划：
   -  全栈（前后端，桌面端，小程序，AI）开发工程师；
